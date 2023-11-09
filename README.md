@@ -15,3 +15,6 @@ Port Async Operation: Para tarefas que requerem processamento em segundo plano, 
 Criar uma Action de "Buscar CEP" que combina um script JavaScript personalizado com a extensão SDK para preencher automaticamente informações de endereço com base no CEP
 
 Criar um Workflow que valida um limite de até duas incrições da entidade aluno em cursos
+
+## Considerações
+Foi utilizado duas soluções onde SoluoCursandoDesenvolvimentoMSDyn365CE foi usado para realizar as tarefas de Plugins e Actions. E as tarefas de Workflow e as partes práticas do curso na solução SolucaoWorflow
