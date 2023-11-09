@@ -18,3 +18,13 @@ Criar um Workflow que valida um limite de até duas incrições da entidade alun
 
 ## Considerações
 Foi utilizado duas soluções onde SoluoCursandoDesenvolvimentoMSDyn365CE foi usado para realizar as tarefas de Plugins e Actions. E as tarefas de Workflow e as partes práticas do curso na solução SolucaoWorflow
+
+## Outros projetos feitos no Bootcamp Coding The Future Avanade:
+
+Criação de um site básico utilizando o aplicativo Portals do Power Apps e o dataverse https://github.com/LeonardoSantos16/PortalPowerAppsDynamics
+
+Criação de uma painel no power BI para a exibição no MS Dynamics https://github.com/LeonardoSantos16/PainelPowerBiDynamics365
+
+Exercícios do Bootcamp Programação C# com CRM Dynamics  https://github.com/LeonardoSantos16/exercicios_curso_dynamicsCsharp
+
+Desafio de projeto - Criando um aplicativo do tipo Canvas com a Power Platform https://github.com/LeonardoSantos16/CanvasPowerPlataform
